@@ -24,7 +24,7 @@ The moment a pull request is opened on a repo with MergeMind installed, it wakes
 No human has to trigger it. No behavior change required from the team — just drop in one workflow file.
 
 ![MergeMind review comment posted automatically on a GitHub PR](docs/review-frontend.png)
-*MergeMind reviewing [PR #3](https://github.com/Ashu07017/mergemind/pull/3) — correctly gives credit for safe parameterized queries while still catching medium/low issues*
+*MergeMind reviewing [Streamlit-Dashboard](https://github.com/Ashu07017/mergemind/pull/3) — Correctly recognizes and credits safe parameterized queries while still identifying medium- and low-severity issues.*
 
 ![MergeMind catching hardcoded secrets and eval() usage](docs/review-data-handler.png)
 *MergeMind reviewing [PR #4](https://github.com/Ashu07017/mergemind/pull/4) — flags a hardcoded API key and unsafe `eval()` call*
