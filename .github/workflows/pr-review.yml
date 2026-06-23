@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
-      contents: write        # upgraded from read — needed to commit reviews.json
+      contents: read
 
     steps:
       - name: Checkout repo
