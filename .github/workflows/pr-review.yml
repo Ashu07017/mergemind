@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reviews.json
+          git add -f reviews.json
           git diff --staged --quiet || git commit -m "log: PR #${{ github.event.pull_request.number }} review saved"
           git push
