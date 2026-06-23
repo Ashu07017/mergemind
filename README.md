@@ -7,7 +7,7 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq%20%2F%20Llama%203.3-orange)](https://groq.com/)
 [![Streamlit](https://img.shields.io/badge/dashboard-streamlit-ff4b4b)](https://mergemind-j4kcecbmas2psfzojpcr4j.streamlit.app/)
 
-🔗 **[Live Dashboard](https://mergemind-j4kcecbmas2psfzojpcr4j.streamlit.app/)** · 📦 **[Example PR Review](https://github.com/Ashu07017/mergemind/pull/2)**
+🔗 **[Live Dashboard](https://mergemind-axojbi9bctsj97rowhpuqs.streamlit.app/)** · 📦 **[Example PR Review](https://github.com/Ashu07017/mergemind/pull/2)**
 
 ---
 
